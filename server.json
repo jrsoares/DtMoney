@@ -23,6 +23,38 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Sistemas",
+      "type": "income",
+      "createdAt": "2023-04-20T14:00:44.777Z",
+      "id": 4
+    },
+    {
+      "description": "Desenvolvimento de app",
+      "price": 10000,
+      "category": "Sistemas",
+      "type": "income",
+      "createdAt": "2023-04-20T14:02:17.529Z",
+      "id": 5
+    },
+    {
+      "description": "Lanche",
+      "price": 1600,
+      "category": "Restaurante",
+      "type": "income",
+      "createdAt": "2023-04-20T14:07:27.610Z",
+      "id": 6
+    },
+    {
+      "description": "Iorgute de banana",
+      "price": 15,
+      "category": "Lanche",
+      "type": "income",
+      "createdAt": "2023-04-20T14:12:05.775Z",
+      "id": 7
     }
   ]
 }
